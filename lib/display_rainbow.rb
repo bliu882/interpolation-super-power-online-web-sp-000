@@ -1,2 +1,3 @@
 # Write your #display_rainbow method here
-ef display_rainbow(color = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
+def display_rainbow(color = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
+  puts "R:{color[1]}"
